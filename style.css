@@ -23,7 +23,7 @@ h1 {
 
   .contenedor-imagen {
    position:relative;
-   width: 50%; 
+   width: 130px; 
    margin:auto;  
 
 
@@ -32,3 +32,8 @@ h1 {
   h2 {
     text-align:right;
   }
+
+  td img {
+    width: 33px;
+  }
+  
